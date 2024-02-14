@@ -1,0 +1,9 @@
+to run this project first:
+#install mongodb in your machine;
+#install nodejs
+#connect your mongodb local database
+and..
+run on command-line: 
+#npm run install  (to install all dependencies)
+#npm run start (to run express server)
+and open: localhost:5000 in your browser
